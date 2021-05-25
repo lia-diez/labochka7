@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "FileSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "compile": {
+          "bin/placeholder/FileSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FileSort.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win7-x86": {
+      "FileSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "compile": {
+          "bin/placeholder/FileSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FileSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileSort/1.0.0": {
+      "type": "project",
+      "path": "../FileSort/FileSort.csproj",
+      "msbuildProject": "../FileSort/FileSort.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "FileSort >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\UserPRO\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\lab7\\lab7.csproj",
+      "projectName": "lab7",
+      "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\lab7\\lab7.csproj",
+      "packagesPath": "C:\\Users\\UserPRO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\lab7\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\UserPRO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {
+            "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj": {
+              "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

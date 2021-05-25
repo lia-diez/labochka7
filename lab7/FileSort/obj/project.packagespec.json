@@ -1,0 +1,31 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj",
+    "projectName": "FileSort",
+    "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj",
+    "outputPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net48"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net48": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net48": {
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

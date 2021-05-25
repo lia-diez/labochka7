@@ -1,0 +1,48 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": []
+  },
+  "packageFolders": {
+    "C:\\Users\\UserPRO\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj",
+      "projectName": "FileSort",
+      "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj",
+      "packagesPath": "C:\\Users\\UserPRO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\UserPRO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
