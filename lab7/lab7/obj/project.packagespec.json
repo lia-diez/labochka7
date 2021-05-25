@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\lab7\\lab7.csproj",
+    "projectUniqueName": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\lab7\\lab7.csproj",
     "projectName": "lab7",
-    "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\lab7\\lab7.csproj",
-    "outputPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\lab7\\obj\\",
+    "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\lab7\\lab7.csproj",
+    "outputPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\lab7\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net48"
@@ -15,8 +15,8 @@
     "frameworks": {
       "net48": {
         "projectReferences": {
-          "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj": {
-            "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj"
+          "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\FileSort\\FileSort.csproj": {
+            "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\FileSort\\FileSort.csproj"
           }
         }
       }

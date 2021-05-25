@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj",
+    "projectUniqueName": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\FileSort\\FileSort.csproj",
     "projectName": "FileSort",
-    "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj",
-    "outputPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\obj\\",
+    "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\FileSort\\FileSort.csproj",
+    "outputPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\FileSort\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net48"

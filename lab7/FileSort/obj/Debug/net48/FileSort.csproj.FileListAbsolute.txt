@@ -6,3 +6,11 @@ C:\Users\UserPRO\Desktop\копеі\АСД\lab7\FileSort\obj\Debug\net48\FileSor
 C:\Users\UserPRO\Desktop\копеі\АСД\lab7\FileSort\obj\Debug\net48\FileSort.csproj.CoreCompileInputs.cache
 C:\Users\UserPRO\Desktop\копеі\АСД\lab7\FileSort\obj\Debug\net48\FileSort.dll
 C:\Users\UserPRO\Desktop\копеі\АСД\lab7\FileSort\obj\Debug\net48\FileSort.pdb
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\FileSort\bin\Debug\net48\FileSort.dll
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\FileSort\bin\Debug\net48\FileSort.pdb
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\FileSort\obj\Debug\net48\FileSort.csprojAssemblyReference.cache
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\FileSort\obj\Debug\net48\FileSort.AssemblyInfoInputs.cache
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\FileSort\obj\Debug\net48\FileSort.AssemblyInfo.cs
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\FileSort\obj\Debug\net48\FileSort.csproj.CoreCompileInputs.cache
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\FileSort\obj\Debug\net48\FileSort.dll
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\FileSort\obj\Debug\net48\FileSort.pdb

@@ -24,7 +24,9 @@ namespace FileSort
                 BinManager.CreateFile(writePaths[i]);
             }
 
-            if (isOptimised) OptimisedWrite(path, name, 1000000); 
+            Console.WriteLine("enter the weight of buffer in megabytes");
+            int weight = int.Parse(Console.ReadLine());
+            if (isOptimised) OptimisedWrite(path, name, 1024*1024*weight); 
             else FirstWrite(path, name);
             
             while (true)

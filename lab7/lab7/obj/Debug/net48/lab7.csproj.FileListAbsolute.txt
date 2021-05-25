@@ -10,3 +10,15 @@ C:\Users\UserPRO\Desktop\копеі\АСД\lab7\lab7\obj\Debug\net48\lab7.csproj
 C:\Users\UserPRO\Desktop\копеі\АСД\lab7\lab7\obj\Debug\net48\lab7.csproj.CopyComplete
 C:\Users\UserPRO\Desktop\копеі\АСД\lab7\lab7\obj\Debug\net48\lab7.exe
 C:\Users\UserPRO\Desktop\копеі\АСД\lab7\lab7\obj\Debug\net48\lab7.pdb
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\lab7\bin\Debug\net48\lab7.exe.config
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\lab7\bin\Debug\net48\lab7.exe
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\lab7\bin\Debug\net48\lab7.pdb
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\lab7\bin\Debug\net48\FileSort.dll
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\lab7\bin\Debug\net48\FileSort.pdb
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\lab7\obj\Debug\net48\lab7.csprojAssemblyReference.cache
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\lab7\obj\Debug\net48\lab7.AssemblyInfoInputs.cache
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\lab7\obj\Debug\net48\lab7.AssemblyInfo.cs
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\lab7\obj\Debug\net48\lab7.csproj.CoreCompileInputs.cache
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\lab7\obj\Debug\net48\lab7.csproj.CopyComplete
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\lab7\obj\Debug\net48\lab7.exe
+C:\Users\UserPRO\Desktop\копеі\АСД\labochka7\lab7\lab7\obj\Debug\net48\lab7.pdb

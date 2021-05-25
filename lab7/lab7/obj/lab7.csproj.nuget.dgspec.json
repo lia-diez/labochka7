@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\lab7\\lab7.csproj": {}
+    "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\lab7\\lab7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj": {
+    "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\FileSort\\FileSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj",
+        "projectUniqueName": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\FileSort\\FileSort.csproj",
         "projectName": "FileSort",
-        "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj",
+        "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\FileSort\\FileSort.csproj",
         "packagesPath": "C:\\Users\\UserPRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\obj\\",
+        "outputPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\FileSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UserPRO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,14 +39,14 @@
         }
       }
     },
-    "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\lab7\\lab7.csproj": {
+    "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\lab7\\lab7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\lab7\\lab7.csproj",
+        "projectUniqueName": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\lab7\\lab7.csproj",
         "projectName": "lab7",
-        "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\lab7\\lab7.csproj",
+        "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\lab7\\lab7.csproj",
         "packagesPath": "C:\\Users\\UserPRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\lab7\\obj\\",
+        "outputPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\lab7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UserPRO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -60,8 +60,8 @@
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj": {
-                "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\lab7\\FileSort\\FileSort.csproj"
+              "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\FileSort\\FileSort.csproj": {
+                "projectPath": "C:\\Users\\UserPRO\\Desktop\\копеі\\АСД\\labochka7\\lab7\\FileSort\\FileSort.csproj"
               }
             }
           }
